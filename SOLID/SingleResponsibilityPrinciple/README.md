@@ -1,5 +1,5 @@
-The Single Responsibility Principle states that a class should have only one 
-responsibililty.
+### The Single Responsibility Principle states that
 
-If I am a programmer than my primary job is to code. If someone asks me to
-get coffee, then that is not my primary job.
+* A class should have a single reason to change.
+* A class should have a primary responsibility, and it should not take up other responsibility.
+* Separation of concerns. 
